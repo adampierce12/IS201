@@ -1,0 +1,36 @@
+Body {
+    background: url("../");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.tableaufooter {
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    height: 30px;
+    font-size: 24px;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(98, 218, 248);
+    color: white;
+    position: fixed;
+}
+.tableauheader {
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    height: 200px;
+    font-size: 24px;
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(98, 218, 248);
+    color: white;
+}
+.tableaubody2 {
+    text-align: center;
+    color: blue;
+}
+.contact {
+    text-align: center;
+}

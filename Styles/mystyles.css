@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(159, 219, 235);
+    font-family: Georgia, 'Times New Roman', Times, serif 
+}
+
+.video{
+    margin-left: 40px;
+}
+
+.anchor{
+    text-align: center;
+}
+
+.li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style-type: armenian;
+    text-align: left;
+}
+
+.contact{
+    text-align: center;
+}
+
+.column{
+    float: right;
+    width: 33.3%;
+    padding: 20px;
+}
+
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+    width: 800px;
+}
